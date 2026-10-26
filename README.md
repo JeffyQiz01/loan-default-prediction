@@ -13,6 +13,7 @@ historical loan data.
 
 ## Project structure
 
+```text
 loan_default_prediction_project/
 ├── train.ipynb                 # EDA, preprocessing, model training/evaluation
 ├── predict.ipynb  # Predict on new applicant CSVs
@@ -26,7 +27,7 @@ loan_default_prediction_project/
     ├── test_metrics.csv
     ├── test_predictions.csv
     └── run_metadata.json
-
+```
 
 The exact contents of `artifacts/` are generated when the notebook's save-artifacts
 cell runs. The training notebook displays EDA charts inline; **it does not currently

@@ -78,6 +78,8 @@ The target column must be named `Default` and contain values that can be interpr
 as 0 (non-default) and 1 (default), including supported text values such as
 `Yes`/`No` or `Default`/`Non-default`.
 
+Link to download dataset : https://zenodo.org/records/11295916?utm_source=chatgpt.com
+
 ## 3. Run the training notebook
 
 From the project folder, launch Jupyter:
